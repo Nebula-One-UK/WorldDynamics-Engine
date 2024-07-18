@@ -1,2 +1,8 @@
-# WorldDynamics-Engine
-Enhancing Towny Advanced with dynamic world interactions and engine-driven town management.
+![World Dynamics Engine](https://i.imgur.com/XUY6rz9.png)
+![Build Status](https://img.shields.io/github/actions/workflow/status/Nebula-One-UK/WorldDynamics-Engine/main.yml?branch=main)
+![License](https://img.shields.io/github/license/Nebula-One-UK/WorldDynamics-Engine)
+![GitHub stars](https://img.shields.io/github/stars/Nebula-One-UK/WorldDynamics-Engine?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Nebula-One-UK/WorldDynamics-Engine?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Nebula-One-UK/WorldDynamics-Engine)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Nebula-One-UK/WorldDynamics-Engine)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/Nebula-One-UK/WorldDynamics-Engine)
